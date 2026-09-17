@@ -1,0 +1,17 @@
+<header class="has-background-black">
+    <div
+        class="p-3 container is-widescreen is-flex is-align-items-center is-justify-content-space-between is-gap-1 is-flex-wrap-wrap ">
+        <a href="/" class="m-0 p-0">
+            <h1 class="title is-5 m-1">VWERX</h1>
+        </a>
+
+        <div class="is-flex is-gap-1 is-align-items-center">
+            <a href="/create" class="button is-dark is-small">
+                <span>Create</span>
+            </a>
+            <a href="/login" class="button is-dark is-small">
+                <span>Logout</span>
+            </a>
+        </div>
+    </div>
+</header>
