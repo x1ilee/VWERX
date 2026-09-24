@@ -26,7 +26,7 @@ security research, lab environments, and system administration.
 Clone the project and install its dependencies:
 
 ```bash
-git clone https://github.com/shivanikoul7/Student_Result_Portsl VWERX
+git clone https://github.com/x1ilee/VWERX
 cd VWERX
 npm install
 ```
